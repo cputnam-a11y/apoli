@@ -108,7 +108,7 @@ dependencies {
 	})
 
 	//	PlayerAbilityLib
-	include(modApi("com.github.ladysnake:PlayerAbilityLib:${project.pal_version}"))
+	include(modApi("io.github.ladysnake:PlayerAbilityLib:${project.pal_version}"))
 	
 	//	Calio
 	include(modApi("com.github.cputnam-a11y:calio:${project.calio_version}"))
